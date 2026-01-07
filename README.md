@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityait019&label=Profile%20views&color=0e75b6&style=flat" alt="adityait019" /> </p>
 
-- 🔭 I’m currently working on [Travel Recommendation System](https://github.com/adityait019/Travel-Recommendation-System-Using-ML)
+- 🔭 I’m currently working on [Agentic AI in Finance Management](https://github.com/adityait019/finguard-ai)
 
-- 🌱 I’m currently learning **ML Pandas Android**
+- 🌱 I’m currently learning **Agentic AI, Gen-AI**
 
 - 👯 I’m looking to collaborate on [Talkhive](https://github.com/adityait019/TalkHive)
 
-- 💬 Ask me about **Android, Programming**
+- 💬 Ask me about **AI, Programming**
 
 - 📫 How to reach me **adityashahi206@gmail.com**
 
