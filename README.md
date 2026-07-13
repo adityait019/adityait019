@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityait019&label=Profile%20views&color=0e75b6&style=flat" alt="adityait019" /> </p>
 
-- 🔭 I’m currently working on [Agentic AI in Finance Management](https://github.com/adityait019/finguard-ai)
+- 🔭 I’m currently working on [CorteX](https://github.com/adityait019/orchestrator)
 
 - 🌱 I’m currently learning **Agentic AI, Gen-AI**
 
-- 👯 I’m looking to collaborate on [Talkhive](https://github.com/adityait019/TalkHive)
+- 👯 I’m looking to collaborate on [FinGuard-ai](https://github.com/adityait019/finguard-ai)
 
 - 💬 Ask me about **AI, Programming**
 
