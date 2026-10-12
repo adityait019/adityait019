@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **CorteX** – an enterprise-grade Agentic AI Orchestrator
+- 🔭 Currently building **Nexus** – an enterprise-grade Agentic AI Orchestrator
 - 🌱 Learning **LLMs, Agentic AI, MCP, RAG, AI Infrastructure & Distributed Systems**
 - 👯 Open to collaborating on **Open Source AI and GenAI projects**
 - 💬 Ask me about **Python, FastAPI, Agentic AI, System Design, Backend Engineering**
@@ -20,7 +20,7 @@
 
 ## 🛠 Current Projects
 
-- 🤖 **CorteX** – Agentic AI Orchestrator
+- 🤖 **Nexus** – Agentic AI Orchestrator
 - 🧠 **FinGuard-AI** – AI-powered Financial Assistant
 - 📄 **Resume Intelligence Engine** – Resume parsing and semantic understanding using LLMs
 
